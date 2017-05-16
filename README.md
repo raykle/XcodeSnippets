@@ -3,7 +3,9 @@
 Xcode Snippets 备份。
 
 Download or clone this repo.
+
 Goto the repo folder by `cd path/of/XcodeSnippets`
+
 Then run shell command below `optionally`:
 
 ```shell
