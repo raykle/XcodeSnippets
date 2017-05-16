@@ -1,5 +1,7 @@
 # XcodeSnippets
 
+[![](https://img.shields.io/badge/Click-@Me-blue.svg)](http://raykle.coding.me)
+
 Xcode Snippets 备份。
 
 Download or clone this repo.
